@@ -1,23 +1,23 @@
 ## Comandos do Projeto
 
-    * Comando para criar o Projeto:
+ * Comando para criar o Projeto:
 
-    ```
-        npm create vite@latest
-    ```
+ ```
+     npm create vite@latest
+ ```
 
-    * Comando para instalar as dependências
+ * Comando para instalar as dependências
 
-    ```
-        npm i
-    ```
-    
-    * Comando para rodar o projeto
+ ```
+     npm i
+ ```
+ 
+ * Comando para rodar o projeto
 
-    ```
-        npm run dev
-    ```
+ ```
+     npm run dev
+ ```
 
 ### Link do Vídeo
 
-    [Link do Vídeo](https://www.youtube.com/watch?v=HlkbeikH8cs).
+ [Link do Vídeo](https://www.youtube.com/watch?v=HlkbeikH8cs).
