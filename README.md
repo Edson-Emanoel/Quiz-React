@@ -20,4 +20,4 @@
 
 ### Link do Vídeo
 
-    * [Link do Vídeo](https://www.youtube.com/watch?v=HlkbeikH8cs).
+    [Link do Vídeo](https://www.youtube.com/watch?v=HlkbeikH8cs).
